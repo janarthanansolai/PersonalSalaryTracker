@@ -1,1 +1,1 @@
-rootProject.name = "leetcode"
+rootProject.name = "PersonalSalaryTracker"
